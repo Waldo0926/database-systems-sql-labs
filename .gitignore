@@ -1,0 +1,21 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Local configuration / secrets
+.env
+.env.*
+*.local
+
+# Database backups / generated exports
+*.bak
+*.bacpac
+*.dacpac
+*.mdf
+*.ldf
+*.csv
+*.log
