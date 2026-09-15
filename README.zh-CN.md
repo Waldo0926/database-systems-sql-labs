@@ -1,5 +1,12 @@
 # 数据库系统 SQL 实验
 
+[![类型](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A-2563eb?style=for-the-badge)](#)
+[![技术](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF-T--SQL-7c3aed?style=for-the-badge)](#)
+[![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-MIT-16a34a?style=for-the-badge)](LICENSE)
+
+[English](README.md)
+
+
 这是一个基于本科 **《数据库系统概论》** 课程实验重新整理的 SQL Server 作品集项目。
 
 原课程实验覆盖交互式 SQL、关系查询、完整性约束、触发器、存储过程和游标。本仓库没有直接把旧作业原封不动上传，而是将代码统一为 **Microsoft SQL Server / T-SQL**，并修复了原实验材料中的语法混用、命名不一致和不完整语句。
