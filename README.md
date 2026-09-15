@@ -1,5 +1,12 @@
 # Database Systems SQL Labs
 
+[![Type](https://img.shields.io/badge/Type-Coursework-2563eb?style=for-the-badge)](#)
+[![Tech](https://img.shields.io/badge/Tech-T--SQL-7c3aed?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](LICENSE)
+
+[简体中文](README.zh-CN.md)
+
+
 A cleaned and reproducible SQL Server portfolio project based on undergraduate coursework in **Database Systems (数据库系统概论)**.
 
 The original coursework covered interactive SQL, relational queries, integrity constraints, triggers, stored procedures, and cursors. This repository reorganizes those exercises into a consistent **T-SQL / Microsoft SQL Server** implementation and corrects syntax and design issues in the original lab files.
