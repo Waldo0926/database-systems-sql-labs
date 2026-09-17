@@ -4,7 +4,7 @@
 [![Tech](https://img.shields.io/badge/Tech-T--SQL-7c3aed?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](LICENSE)
 
-[简体中文](README.zh-CN.md)
+**English** · [中文](README.zh-CN.md)
 
 
 A cleaned and reproducible SQL Server portfolio project based on undergraduate coursework in **Database Systems (数据库系统概论)**.
