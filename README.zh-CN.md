@@ -4,7 +4,7 @@
 [![技术](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF-T--SQL-7c3aed?style=for-the-badge)](#)
 [![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-MIT-16a34a?style=for-the-badge)](LICENSE)
 
-[English](README.md)
+[English](README.md) · **中文**
 
 
 这是一个基于本科 **《数据库系统概论》** 课程实验重新整理的 SQL Server 作品集项目。
@@ -99,10 +99,12 @@ DECLARE @variable
 | 实验二 | 完整性控制、触发器 | `01`、`05` |
 | 实验三 | 存储过程、游标 | `06`、`07` |
 
+更多说明见 [`docs/coursework-map.md`](docs/coursework-map.md)。
+
 ## 公开仓库隐私处理
 
 本仓库不会上传原始实验报告、教师课件、复习资料、学号等个人信息或可能属于第三方的课程材料，只保留经过重新整理的代码和说明文档。
 
-## License
+## 许可证
 
-MIT License。
+MIT License，详见 [`LICENSE`](LICENSE)。

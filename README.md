@@ -54,8 +54,8 @@ database-systems-sql-labs/
 
 Two schemas keep the course exercises logically separated:
 
-- `spj` — supplier / part / project exercises from the introductory SQL lab
-- `Academic` — student / course / enrollment exercises used for triggers and stored procedures
+- `spj`: supplier / part / project exercises from the introductory SQL lab
+- `Academic`: student / course / enrollment exercises used for triggers and stored procedures
 
 ### `spj` schema
 
@@ -83,7 +83,7 @@ The scripts use SQL Server batch separators (`GO`) and T-SQL features such as `i
 
 ## Run
 
-### Option 1 — run all scripts with `sqlcmd`
+### Option 1: run all scripts with `sqlcmd`
 
 From the repository root:
 
@@ -97,7 +97,7 @@ For SQL authentication:
 sqlcmd -S localhost -U <username> -P '<password>' -i run_all.sql
 ```
 
-### Option 2 — run in an SQL editor
+### Option 2: run in an SQL editor
 
 Execute these files in order:
 
@@ -114,7 +114,7 @@ Execute these files in order:
 
 ## What was corrected from the original coursework?
 
-The archived lab material mixed SQL dialects in places—for example, MySQL-style `FOR EACH ROW` / `SHOW CREATE DATABASE` appeared alongside SQL Server `inserted` / `deleted` pseudo-tables and T-SQL variables. There were also naming mismatches and incomplete statements.
+The archived lab material mixed SQL dialects in places. For example, MySQL-style `FOR EACH ROW` / `SHOW CREATE DATABASE` appeared alongside SQL Server `inserted` / `deleted` pseudo-tables and T-SQL variables. There were also naming mismatches and incomplete statements.
 
 This portfolio version therefore:
 
